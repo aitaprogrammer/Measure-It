@@ -1,0 +1,4 @@
+# inference/
+#
+# Serving / inference code and entrypoints.
+# Put inference scripts, model loading utilities, and serving configs here.
